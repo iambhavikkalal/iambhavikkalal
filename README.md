@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋, I'm Bhavik kalal
 
-<!--
-**iambhavikkalal/iambhavikkalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A full stack web developer
 
-Here are some ideas to get you started:
+[Bhavik kalal](https://www.bhavikkalal.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Javascript**
+- 👨‍💻 All of my projects are available at [bhavikkalal.com](https://www.bhavikkalal.com/)
+- 📫 How to reach me: [contact@bhavikkalal.com](mailto:contiact@bhavikkalal.com)
+
+## Connect with me:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30">](https://instagram.com/iambhavikkalal)
+
